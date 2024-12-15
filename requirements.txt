@@ -1,0 +1,6 @@
+Faker==18.13.0
+psycopg2==2.9.9
+python-dateutil==2.9.0.post0
+python-dotenv==0.21.1
+six==1.17.0
+typing_extensions==4.7.1
